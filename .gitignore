@@ -1,0 +1,7 @@
+*.class
+.project
+.classpath
+.settings/
+/BK_webhook_servlet_TB/nbproject/private/
+/BK_webhook_servlet_TB/build/
+/BK_webhook_servlet_TB/dist/
